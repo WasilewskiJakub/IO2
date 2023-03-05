@@ -30,8 +30,7 @@ namespace Lab2IO2
                 if (num > 1000) num = 0;
                 result += num;
             }
-            //return result;
-            return 2;
+            return result;
         }
     }
 }
