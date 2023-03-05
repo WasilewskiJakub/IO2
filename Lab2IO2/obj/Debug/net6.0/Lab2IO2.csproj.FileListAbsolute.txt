@@ -1,0 +1,15 @@
+D:\Programy\Lab2IO2\Lab2IO2\bin\Debug\net6.0\Lab2IO2.exe
+D:\Programy\Lab2IO2\Lab2IO2\bin\Debug\net6.0\Lab2IO2.deps.json
+D:\Programy\Lab2IO2\Lab2IO2\bin\Debug\net6.0\Lab2IO2.runtimeconfig.json
+D:\Programy\Lab2IO2\Lab2IO2\bin\Debug\net6.0\Lab2IO2.dll
+D:\Programy\Lab2IO2\Lab2IO2\bin\Debug\net6.0\Lab2IO2.pdb
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.csproj.AssemblyReference.cache
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.AssemblyInfoInputs.cache
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.AssemblyInfo.cs
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.csproj.CoreCompileInputs.cache
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.dll
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\refint\Lab2IO2.dll
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.pdb
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\Lab2IO2.genruntimeconfig.cache
+D:\Programy\Lab2IO2\Lab2IO2\obj\Debug\net6.0\ref\Lab2IO2.dll
